@@ -5,4 +5,4 @@ class Solution:
                 nums.append(i)
         return nums        
 
-    moveZeroes([1,0,3,4,5,0])        
+ 
